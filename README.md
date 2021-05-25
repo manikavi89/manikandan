@@ -1,2 +1,2 @@
 # manikandan
-use and make it wise!!
+this is my repository learning git svc by editing this file.
